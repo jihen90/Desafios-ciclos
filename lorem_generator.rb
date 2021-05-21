@@ -1,0 +1,5 @@
+lorem = ARGV[0].to_i
+
+lorem.times do
+    puts "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quam augue, malesuada a lobortis eu, condimentum sed erat. Etiam erat nibh, tincidunt vel dui vel, tincidunt varius libero. Nam lorem nisl, ornare ut nunc at, lobortis fermentum lacus. Ut eget odio ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam elementum quam sed placerat tincidunt. Fusce vitae bibendum nunc, vel cursus ante. Quisque felis risus, consectetur vel enim nec, dictum feugiat eros. Nulla egestas laoreet eros et lobortis. Quisque ac luctus dui, et eleifend lorem. Phasellus bibendum eros non neque vehicula pretium. Cras pellentesque risus neque, sit amet consequat justo placerat id. In tellus dolor, iaculis quis orci quis, feugiat elementum leo. Maecenas et orci a tellus dapibus efficitur vel a dolor. Suspendisse pulvinar elit sed nibh sollicitudin sodales. Proin lacus neque, fringilla eget molestie ut, rutrum a tortor."
+end
